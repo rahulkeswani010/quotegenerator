@@ -15,6 +15,7 @@ body {
 .container {
   background-color: #f1faee;
   width: 80vw;
+  height:auto;
   margin-top: 30rem;
   text-align: center;
   box-shadow: rgba(178, 212, 26, 0.4) 5px 5px, rgba(69, 240, 46, 0.3) 10px 10px,
